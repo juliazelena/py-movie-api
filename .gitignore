@@ -1,0 +1,9 @@
+.venv
+db.sqlite3
+.pyc
+.idea
+.db3
+/__pycache__/
+venv
+cinema/__pycache__/
+.env
